@@ -19,4 +19,4 @@ pip3 install -r requirements.txt
 # Showtime
 
 The DeepSORT tracker follows the upper-left corner of the bounding box identified by YOLOv8. When this corner crosses a predefined zone, marked by subtly visible lines, it registers an entry, effectively counting people entering that area.
-![](test0.png)
+![](images/test0.png)
